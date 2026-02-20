@@ -1,2 +1,12 @@
 _ permet d'avoir le dernier résultat en mode shell.
 Ne fonctionne pas en mode script.
+
+keyword pass : pour laisser vide une boucle
+de code à construire plus tard.
+
+x & y      Bit-wise AND
+x | y      Bit-wise OR
+x ^ y      Bit-wise XOR
+~x         Bit-wise NOT
+
+Stop à 1.4
