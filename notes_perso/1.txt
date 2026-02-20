@@ -1,0 +1,2 @@
+_ permet d'avoir le dernier résultat en mode shell.
+Ne fonctionne pas en mode script.
